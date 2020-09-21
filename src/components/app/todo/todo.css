@@ -1,0 +1,14 @@
+nav {
+  background-color: gainsboro;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+}
+
+section {
+  width: 200px;
+  height: 200px;
+  font-size: 10px;
+  padding: auto;
+  text-align: center;
+}
